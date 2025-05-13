@@ -1,0 +1,8 @@
+path: C:\Users\melek\OneDrive\Masaüstü\plate-detection-main\dataset
+
+train: images
+val: images
+
+nc: 1
+names:
+  0: plaka
